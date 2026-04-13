@@ -1,10 +1,6 @@
-# Privacy-Preserving Federated Learning for Diabetic Retinopathy Diagnosis# Privacy-Preserving Federated Learning Model for Diabetic Retinopathy Diagnosis
+# Privacy-Preserving Federated Learning for Diabetic Retinopathy Diagnosis
+This project implements a privacy-preserving federated learning model for diagnosing diabetic retinopathy. It leverages Jupyter Notebooks for model training and prediction, providing a user-friendly interface for inputting patient data and displaying results.
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)This project implements a privacy-preserving federated learning model for diagnosing diabetic retinopathy. It leverages Jupyter Notebooks for model training and prediction, providing a user-friendly interface for inputting patient data and displaying results.
-
-[![React](https://img.shields.io/badge/React-18.2+-61DAFB.svg)](https://reactjs.org/)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg)](https://www.typescriptlang.org/)## Project Structure
 
 ```
 
